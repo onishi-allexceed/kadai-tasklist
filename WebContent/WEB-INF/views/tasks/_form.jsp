@@ -1,7 +1,4 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-<label for="content">タイトル</label><br />
-<input type="text" name="content" id="content" value="${task.content}" />
-<br /><br />
 
 <label for="content_msg">メッセージ</label><br />
 <input type="text" name="content" id="content_msg" value="${task.content}" />
